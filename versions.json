@@ -1,3 +1,9 @@
 {
-  "versions": []
+  "versions": [
+    {
+      "version": "0.1.0",
+      "artifactUrl": "https://github.com/spacelift-io/flows-app-hcp-terraform/releases/download/v0.1.0/bundle.tar.gz",
+      "artifactChecksum": "sha256:cd0ae9ca1147d9e0418c3f4e7a4d73045213f66767d1c2ec350fc932295ee5c0"
+    }
+  ]
 }
